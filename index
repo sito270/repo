@@ -8,6 +8,9 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <bead>
-        
+        <h1>
+            Naglowek
+        </h1>
+
     </bead>
 </html>
